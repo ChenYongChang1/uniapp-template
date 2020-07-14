@@ -1,0 +1,9 @@
+{
+    "uni-app": {
+        "scripts": {}
+    },
+    "dependencies": {
+        "luch-request": "^3.0.2",
+        "uni-simple-router": "^1.5.5"
+    }
+}
